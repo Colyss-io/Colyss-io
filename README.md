@@ -21,7 +21,7 @@ Sou **Gabriel Fernandes Carvalho do Amaral**, Carioca de 18 anos, atualmente cur
 
 💡 Quer trocar ideias ou colaborar em um projeto? Vamos conversar!  
 
-🔗 **GitHub:** [Peixotim](https://github.com/Colyss-io)  
+🔗 **GitHub:** [Gabriel](https://github.com/Colyss-io)  
     [![LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-0ba905298/)
     [![Instagram](https://www.instagram.com/gbfcamaral/?next=%2F)
     </a> 
