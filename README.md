@@ -7,7 +7,7 @@
 
 💻 **Engenheiro de Software em formação** | 🎯 **Apaixonado por tecnologia e inovação**  
 
-Sou **Gabriel Fernandes Carvalho do Amaral**, Carioca de 18 anos, atualmente cursando **ADS** na Uva.  
+Sou **Gabriel Fernandes Carvalho do Amaral**, Carioca de 19 anos, atualmente cursando **Engenharia de Software** na Unicesumar.  
 
 🚀 Desde os 16 anos, mergulho de cabeça no mundo da programação, sempre buscando aprender, criar e compartilhar conhecimento. No meu GitHub, você encontrará desde projetos sólidos até invenções malucas , porque inovar faz parte da jornada!  
 
